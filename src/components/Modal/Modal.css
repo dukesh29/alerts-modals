@@ -1,0 +1,7 @@
+span:hover{
+    background: black;
+    color: white;
+    width: 25px;
+    height: 25px;
+    transition: 0.5s ease;
+}
